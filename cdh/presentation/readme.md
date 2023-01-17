@@ -1,2 +1,2 @@
-This presentation was given as a part of the [Humanities Data Science Institute](https://princeton-cdh.github.io/hds-institute/) presented by the Princeton Center for Digital Humanities. 
-Slides from this presentation are available [here](https://docs.google.com/presentation/d/1iaCoTr1Ywmdq3kGvv5j-XcrkWXjtPbt52hZ_QZ2ZSpE/edit?usp=sharing)
+This presentation was given as a part of the [Humanities Data Science Institute](https://princeton-cdh.github.io/hds-institute/) presented by the Princeton Center for Digital Humanities. The PDF in this directory will likely be the most useful part of the tutorial since it contains detailed explanations for each formula and figure. I have made the [slides](https://docs.google.com/presentation/d/1iaCoTr1Ywmdq3kGvv5j-XcrkWXjtPbt52hZ_QZ2ZSpE/edit?usp=sharing) available as well, but they will likely be less useful for those who did not participate in the original workshop.
+
